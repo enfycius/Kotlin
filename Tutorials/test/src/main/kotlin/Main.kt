@@ -71,7 +71,7 @@ fun main(args: Array<String>) {
 
             get() = 0
     }
-    
+
     var person = Person2("Jonghyeok", "Kim", 24)
 
     println(person.getName())
